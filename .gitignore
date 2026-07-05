@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Obsidian local UI state
+.obsidian/workspace*.json
+.obsidian/cache/
+
+# Obsidian Git local credentials/settings
+.obsidian/plugins/obsidian-git/data.json
+
+# Local trash and temporary files
+.trash/
+*.tmp
+*.temp
+
+# Large or local-only exports
+*.log
